@@ -1,6 +1,4 @@
 # PGP Fingerprint
-You've come here because you have requested my list of contact methods. You want to verify my PGP key, here is the fingerprint.
+Here is a list of PGP key fingerprints you may need
 
-I will not put the email or public key here, that's why I gave you a list.
-
-Preparing new key soon...
+**Git Signing Key:** E82C 10F6 73DA 07D3 2342  DD3E C667 6D75 E9B7 EECF
